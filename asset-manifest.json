@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/smetter/static/css/main.e1954702.css",
+    "main.js": "/smetter/static/js/main.85aa0cc7.js",
+    "static/media/Inter-Regular.ttf": "/smetter/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/logoBurg.svg": "/smetter/static/media/logoBurg.7acbcfe830e12364ff464076c64fed5d.svg",
+    "static/media/del.svg": "/smetter/static/media/del.dfa6f43dbe67c3dc1c891e67516299e5.svg",
+    "static/media/remove.svg": "/smetter/static/media/remove.a3b66d7594ca6b41a5534b6609199093.svg",
+    "index.html": "/smetter/index.html",
+    "main.e1954702.css.map": "/smetter/static/css/main.e1954702.css.map",
+    "main.85aa0cc7.js.map": "/smetter/static/js/main.85aa0cc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1954702.css",
+    "static/js/main.85aa0cc7.js"
+  ]
+}
