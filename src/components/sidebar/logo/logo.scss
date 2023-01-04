@@ -1,0 +1,19 @@
+.logo{
+    text-align: center;
+    display: block;
+    padding-bottom: 52px;
+    &__img{
+        width: 210px;
+        display: block;
+        margin: auto;
+    }
+    &__text{
+        width: 128px;
+        font-size: 12px;
+        display: block;
+        font-weight: 400;
+        line-height: 15px;
+        text-align: center;
+        margin: auto;
+    }
+}
